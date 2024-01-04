@@ -1,4 +1,4 @@
-Arduino LCD Display Project
+
 Hey there! 👋 this ia a fun and educational Arduino project featuring an LCD display.
 This project allows you to showcase text messages on a two-row display with up to 16 characters each. 
 I'm excited to share my work with the community on GitHub!
