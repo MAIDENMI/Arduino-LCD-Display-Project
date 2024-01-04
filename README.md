@@ -24,3 +24,12 @@ Components Used:
 1x Potentiometer (10k)
 1x 830 tie-points Breadboard
 16x M-M wires (Male to Male jumper wires)
+
+Project Highlights:
+Hands-On Wiring: Explored the pin configurations of the LCD1602 module and successfully connected it to the Arduino Uno.
+
+Contrast Adjustment: Utilized a potentiometer to dynamically adjust the contrast of the LCD display.
+
+Arduino Code: Uploaded and ran an Arduino sketch to display custom messages on the LCD screen.
+
+
